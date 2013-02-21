@@ -3,4 +3,4 @@ guac-amole
 
 This is a test repository.
 
-testCommit6
+testCommit7
